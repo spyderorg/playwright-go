@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/deckarep/golang-set/v2 v2.6.0
-	github.com/go-jose/go-jose/v3 v3.0.1
+	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/go-stack/stack v1.8.1
 	github.com/gorilla/websocket v1.5.1
 	github.com/h2non/filetype v1.1.3
